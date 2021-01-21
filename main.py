@@ -1,8 +1,7 @@
 from ezmanga import menu
 from ezmanga import *
 
-try:
-   
+try:   
    if __name__ == '__main__':
       menu = menu.Menu()
 except:
